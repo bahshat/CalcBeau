@@ -76,7 +76,7 @@ matrix.forEach((item) => {
 });
 
 
-funtion calculate(){
+function calculate(){
    let score = 0;
    radioArr.forEach((radio)=>{
      if(radio.checked){
